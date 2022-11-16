@@ -1,0 +1,83 @@
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 1;
+Save Sprintf("level_%1g.msh",0);
+Delete All;
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 2;
+Save Sprintf("level_%1g.msh",1);
+Delete All;
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 3;
+Save Sprintf("level_%1g.msh",2);
+Delete All;
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 4;
+Save Sprintf("level_%1g.msh",3);
+Delete All;
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 5;
+Save Sprintf("level_%1g.msh",4);
+Delete All;
+
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 6;
+Save Sprintf("level_%1g.msh",5);
+Delete All;
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 7;
+Save Sprintf("level_%1g.msh",6);
+Delete All;
+
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 8;
+Save Sprintf("level_%1g.msh",7);
+Delete All;
+
+
+Merge "versionfive_steeper_test_4.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 9;
+Save Sprintf("level_%1g.msh",8);
+Delete All;
+
+Exit;
+

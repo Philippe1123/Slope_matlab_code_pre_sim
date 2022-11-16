@@ -1,0 +1,49 @@
+time: 108000
+nodes: 1
+procs: 24
+account string: default_project
+queue: q72h
+========================================================================
+/var/spool/torque/mom_priv/jobs/22062004.tier2-p-moab-1.tier2.hpc.kuleuven.be.SC: line 12: .julia/packages/MutilevelEstimators/KoRDo/applications/SPDE/Run_Slope_Stability.jl.jl: No such file or directory
+========================================================================
+Epilogue args:
+Date: Mon Jan  6 11:47:41 CET 2020
+Allocated nodes:
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+r12i01n06
+Job ID: 22062004.tier2-p-moab-1.tier2.hpc.kuleuven.be
+User ID: vsc33032
+Group ID: vsc33032
+Job Name: Run_Slope
+Session ID: 19838
+Resource List: walltime=30:00:00,nodes=1:ppn=24:haswell,pmem=3gb,neednodes=1:ppn=24:haswell
+Resources Used: cput=00:00:01,vmem=0kb,walltime=00:00:06,mem=0kb,energy_used=0
+Queue Name: q72h
+Account String: default_project
+-------------------------------------------------------------------------
+time: 6
+nodes: 1
+procs: 24
+account: default_project

@@ -1,0 +1,24 @@
+which: no matlab in (/apps/leuven/bin:/usr/local/bin:/usr/lpp/mmfs/bin/:.:/opt/TurboVNC/bin:/usr/bin:/usr/sbin:/usr/lib64/qt-3.3/bin:/opt/moab/bin:/opt/mam/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ibutils/bin:/opt/puppetlabs/bin)
+ERROR: LoadError: InitError: failed process: Process(`which matlab`, ProcessExited(1)) [1]
+
+Stacktrace:
+ [1] pipeline_error at ./process.jl:813 [inlined]
+ [2] read(::Cmd) at ./process.jl:700
+ [3] read(::Cmd, ::Type{String}) at ./process.jl:709
+ [4] matlab_homepath() at /user/leuven/330/vsc33032/.julia/packages/MATLAB/cVrxc/src/mxbase.jl:8
+ [5] matlab_libpath at /user/leuven/330/vsc33032/.julia/packages/MATLAB/cVrxc/src/mxbase.jl:37 [inlined]
+ [6] __init__() at /user/leuven/330/vsc33032/.julia/packages/MATLAB/cVrxc/src/MATLAB.jl:72
+ [7] _include_from_serialized(::String, ::Array{Any,1}) at ./loading.jl:685
+ [8] _require_search_from_serialized(::Base.PkgId, ::String) at ./loading.jl:765
+ [9] _tryrequire_from_serialized(::Base.PkgId, ::UInt64, ::String) at ./loading.jl:700
+ [10] _require_search_from_serialized(::Base.PkgId, ::String) at ./loading.jl:754
+ [11] _require(::Base.PkgId) at ./loading.jl:990
+ [12] require(::Base.PkgId) at ./loading.jl:911
+ [13] require(::Module, ::Symbol) at ./loading.jl:906
+ [14] include at ./boot.jl:328 [inlined]
+ [15] include_relative(::Module, ::String) at ./loading.jl:1094
+ [16] include(::Module, ::String) at ./Base.jl:31
+ [17] exec_options(::Base.JLOptions) at ./client.jl:295
+ [18] _start() at ./client.jl:464
+during initialization of module MATLAB
+in expression starting at /vsc-hard-mounts/leuven-user/330/vsc33032/.julia/packages/MultilevelEstimators/KoRDo/applications/SPDE/Run_Beam.jl:12

@@ -1,0 +1,88 @@
+%% Creator: Inkscape inkscape 0.92.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '210_2.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{420bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{210_2.pdf}}%
+    \put(0.12083339,0.07571429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0.12083339,0.13696429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.1\end{tabular}}}}%
+    \put(0.12083339,0.19821429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.2\end{tabular}}}}%
+    \put(0.12083339,0.25946429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.3\end{tabular}}}}%
+    \put(0.12083339,0.32071429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.4\end{tabular}}}}%
+    \put(0.12083339,0.38196429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.5\end{tabular}}}}%
+    \put(0.12083339,0.44321429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.6\end{tabular}}}}%
+    \put(0.12083339,0.50446429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.7\end{tabular}}}}%
+    \put(0.12083339,0.56571429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.8\end{tabular}}}}%
+    \put(0.12083339,0.62696429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.9\end{tabular}}}}%
+    \put(0.12083339,0.68821429){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1\end{tabular}}}}%
+    \put(0.04726196,0.38839321){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\% of the slope own weight\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{210_2.pdf}}%
+    \put(0.13035714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.28535714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0.44035714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}40\end{tabular}}}}%
+    \put(0.59535714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}60\end{tabular}}}}%
+    \put(0.75035714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}80\end{tabular}}}}%
+    \put(0.90535714,0.05404768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}100\end{tabular}}}}%
+    \put(0.5178575,0.01988089){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Absolute value of the Deflection [mm]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{210_2.pdf}}%
+    \put(0.39047625,0.17677161){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.69\end{tabular}}}}%
+    \put(0.39047625,0.22793125){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.71\end{tabular}}}}%
+    \put(0.39047625,0.27909089){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.73\end{tabular}}}}%
+    \put(0.39047625,0.33025054){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.75\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{210_2.pdf}}%
+    \put(0.4,0.14154768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}40\end{tabular}}}}%
+    \put(0.6,0.14154768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}45\end{tabular}}}}%
+    \put(0.8,0.14154768){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}50\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{210_2.pdf}}%
+  \end{picture}%
+\endgroup%

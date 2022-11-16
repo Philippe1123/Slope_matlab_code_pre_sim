@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+~/Desktop/gmsh-git-Linux64/bin/gmsh ~/Desktop/Slope_Matlab/Mesh_Quad/PatchTest/Patch.geo -0
+~/Desktop/gmsh-git-Linux64/bin/gmsh ~/Desktop/Slope_Matlab/Mesh_Quad/PatchTest/Generate_patch  -2  -save_topology

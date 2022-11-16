@@ -1,0 +1,89 @@
+Merge "versionfive_steeper.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+
+
+SetOrder 1;
+Mesh.SaveTopology; 
+Save Sprintf("level_%1g.msh",0);
+Mesh.SaveTopology; 
+Delete All;
+
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 2;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",1);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 3;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",0);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 4;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",3);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 5;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",4);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 6;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",5);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 7;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",6);
+Delete All;
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 8;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",7);
+Delete All;
+
+
+Merge "versionfive_steeper.geo";
+Mesh 2;
+
+SetOrder 9;
+Mesh.SaveTopology; 
+Mesh.MshFileVersion = 2.2;
+Save Sprintf("level_%1g.msh",8);
+Delete All;
+
+
+
+Exit;
+

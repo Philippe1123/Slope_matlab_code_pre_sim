@@ -1,0 +1,98 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Uncert.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{412.5bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.70909091)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Uncert.pdf}}%
+    \put(0.12121218,0.07163636){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0.12121218,0.12945455){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.1\end{tabular}}}}%
+    \put(0.12121218,0.18727273){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.2\end{tabular}}}}%
+    \put(0.12121218,0.24509091){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.3\end{tabular}}}}%
+    \put(0.12121218,0.30290909){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.4\end{tabular}}}}%
+    \put(0.12121218,0.36072727){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.5\end{tabular}}}}%
+    \put(0.12121218,0.41854545){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.6\end{tabular}}}}%
+    \put(0.12121218,0.47636364){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.7\end{tabular}}}}%
+    \put(0.12121218,0.53418182){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.8\end{tabular}}}}%
+    \put(0.12121218,0.592){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.9\end{tabular}}}}%
+    \put(0.12121218,0.64981818){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1\end{tabular}}}}%
+    \put(0.04630309,0.36727309){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\% of the slope own weight\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Uncert.pdf}}%
+    \put(0.13090909,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.28581818,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0.44072727,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}40\end{tabular}}}}%
+    \put(0.59563636,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}60\end{tabular}}}}%
+    \put(0.75054545,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}80\end{tabular}}}}%
+    \put(0.90545455,0.04957582){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}100\end{tabular}}}}%
+    \put(0.51818218,0.01478782){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Absolute value of the Deflection [mm]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Uncert.pdf}}%
+    \put(0.39030309,0.17829455){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.94\end{tabular}}}}%
+    \put(0.39030309,0.22797436){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.96\end{tabular}}}}%
+    \put(0.39030309,0.27765436){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.98\end{tabular}}}}%
+    \put(0.39030309,0.32733418){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Uncert.pdf}}%
+    \put(0.4,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}55\end{tabular}}}}%
+    \put(0.43333327,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}56\end{tabular}}}}%
+    \put(0.46666673,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}57\end{tabular}}}}%
+    \put(0.5,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}58\end{tabular}}}}%
+    \put(0.53333327,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}59\end{tabular}}}}%
+    \put(0.56666673,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}60\end{tabular}}}}%
+    \put(0.6,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}61\end{tabular}}}}%
+    \put(0.63333327,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}62\end{tabular}}}}%
+    \put(0.66666673,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}63\end{tabular}}}}%
+    \put(0.7,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}64\end{tabular}}}}%
+    \put(0.73333327,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}65\end{tabular}}}}%
+    \put(0.76666673,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}66\end{tabular}}}}%
+    \put(0.8,0.13139382){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}67\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Uncert.pdf}}%
+  \end{picture}%
+\endgroup%

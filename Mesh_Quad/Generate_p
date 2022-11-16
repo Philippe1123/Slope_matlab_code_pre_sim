@@ -1,0 +1,22 @@
+Merge "versionfive_steeper.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 1;
+Save Sprintf("level_%1g.msh",0);
+Delete All;
+
+
+Merge "versionfive_steeper.geo";
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 2;
+Save Sprintf("level_%1g.msh",1);
+Delete All;
+
+
+
+
+Exit;
+

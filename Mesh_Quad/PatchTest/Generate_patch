@@ -1,0 +1,13 @@
+Merge "Patch.geo";
+
+Mesh.MshFileVersion = 2.2;
+Mesh 2;
+RecombineMesh;
+SetOrder 2;
+Save Sprintf("Patch.msh");
+Delete All;
+
+
+
+Exit;
+
